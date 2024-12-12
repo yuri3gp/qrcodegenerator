@@ -1,0 +1,1 @@
+Code to generate qrcode image files by links and save
